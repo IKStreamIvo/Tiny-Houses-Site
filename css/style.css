@@ -14,17 +14,19 @@ nav{
 	background-color: #88D498
 }
 .nav-item{
+	border-radius: 10em!important;
 	text-align: center;
 	padding-left: 2em;
 	padding-right: 2em;
 	font-size:1.0em;
 }
 .nav-link:hover{
-	border-radius: 10em!important;
 	background-color: #C6DABF!important;
 	color:#114B5F;
+	border-radius: 10em!important;
 }
 .nav-link.active {
+	border-radius: 10em!important;
 	color:#114B5F!important;
 	background-color: #C6DABF!important;
 }
