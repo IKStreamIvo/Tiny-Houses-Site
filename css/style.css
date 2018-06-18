@@ -1,14 +1,16 @@
+*{
+	z-index: 5;
+}
 html, body {
 	height:100vh;
 	background-color:#114B5F;
 }
 .divider {
+	background-color:#114B5F;
     text-align: center;
-    margin-top: .5em;
-    margin-bottom: .5em;
-    font-size: .3em;
-    height: .3em;
-    min-height: .3em;
+    font-size: .5em;
+    height: .5em;
+    min-height: .5em;
 }
 nav{
 	background-color: #88D498
@@ -50,4 +52,30 @@ nav{
 	background-color: #C6DABF;
 	border-radius: 10em;
 	color:white;
+}
+p{
+	font-size:1.1em;
+}
+
+.jumbotron {
+	background-color: #88D498
+}
+
+span>a{
+	color:white;
+}
+span>a:hover{
+	color:white;
+}
+.badge{
+	margin: .3em;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background-color: #f5f5f5;
 }
