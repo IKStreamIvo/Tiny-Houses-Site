@@ -2,7 +2,7 @@
 	z-index: 5;
 }
 html, body {
-	height:100vh;
+	min-height:100vh;
 	background-color:#114B5F;
 }
 .divider {
