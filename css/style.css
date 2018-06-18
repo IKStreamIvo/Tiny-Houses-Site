@@ -103,3 +103,20 @@ span>a:hover{
 .card-title:hover{
 	color: white;
 }
+
+main {
+	padding: 2em 0 !important;
+}
+
+main.container {
+	background-color: white;
+}
+
+main .row {
+	margin-bottom: 2em;
+	padding: 0 4.5em;
+}
+
+main .card {
+	width: 30em;
+}
