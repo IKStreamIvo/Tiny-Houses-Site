@@ -120,3 +120,16 @@ main .row {
 main .card {
 	width: 30em;
 }
+
+.carousel-item img{
+	width:100%;
+}
+
+.carousel-caption{
+	color:white!important;
+	background-color: rgb(39, 39, 39);
+	opacity: .7;
+}
+.carousel-caption > h3, .carousel-caption > p{
+	color: white!important;
+}
