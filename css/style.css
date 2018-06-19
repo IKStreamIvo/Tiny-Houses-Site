@@ -102,6 +102,8 @@ span>a:hover{
 }
 .card-title:hover{
 	color: white;
+	text-decoration-color: white;
+	text-decoration: none;
 }
 
 main {
@@ -132,4 +134,8 @@ main .card {
 }
 .carousel-caption > h3, .carousel-caption > p{
 	color: white!important;
+}
+
+a:hover{
+	text-decoration: none;
 }
